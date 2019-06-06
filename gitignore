@@ -1,0 +1,11 @@
+# Common
+*.tmp
+
+# Excel
+*.xls*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
